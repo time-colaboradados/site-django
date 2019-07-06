@@ -1,2 +1,1 @@
-# site-django
-Site do Colaboradados feito em Django
+# Site em Django do Colaboradados
